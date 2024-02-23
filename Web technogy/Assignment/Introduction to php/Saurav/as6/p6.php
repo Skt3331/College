@@ -14,5 +14,5 @@ function displaySourceCode($url) {
 }
 
 // Display source code of a webpage
-displaySourceCode('http://localhost/mayur/as3/p3.html');
+displaySourceCode('http://localhost/saurav/as3/p3.html');
 ?>
