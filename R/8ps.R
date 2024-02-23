@@ -1,3 +1,8 @@
+# 8) Write a R program to create a list containing a vector, a matrix and a list
+# and remove the second element.
+
+
+
 vector_data <- c(1,2,3,4,5)
 matr <- matrix(1:9 ,nrow = 3)
 inner_list <- list(a=10,b=20)

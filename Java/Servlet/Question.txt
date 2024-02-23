@@ -1,0 +1,21 @@
+1. Write a servlet program to display current date and time of server.
+2. Design a servlet to display “Welcome IP address of client” to first time visitor.
+Display Welcome-back IP address of client” if the user is revisiting the page. (Use
+Cookies)
+(Hint: Use req.getRemoteAddr() to get IP address of client)
+3. Design the table User (username, password) using Postgre Database. Design
+HTML login screen. Accept the user name and password from the user. Write a
+servlet program to accept the login name and password and validates it from the
+database you have created. If it is correct then display Welcome.html otherwise
+display Error.html.
+4. Design a servlet that provides information about a HTTP request from a client, such
+as IP address and browser type. The servlet also provides information about the
+server on which the servlet is running, such as the operating system type, and the
+names of currently loaded servlets.
+5. Write a servlet which counts how many times a user has visited a web page. If the
+user is visiting the page for the first time, display a welcome message. If the user is
+re-visiting the page, display the number of times visited. (Use cookies).
+6. Write a program to create a shopping mall. User must be allowed to do purchase
+from two pages. Each page should have a page total. The third page should display
+a bill, which consists of a page total of whatever the purchase has been done and
+print the total. (Use HttpSession)

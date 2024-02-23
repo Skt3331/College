@@ -1,3 +1,6 @@
+# 18) Create a Matrix using R and Perform the operations addition, subtraction,
+# multiplication.
+
 mat1 <- matrix(c(1,2,3,4,5,6),nrow = 2)
 mat2 <- matrix(c(9,5,3,2,1,1),nrow = 2)
 

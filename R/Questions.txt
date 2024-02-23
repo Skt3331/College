@@ -1,0 +1,63 @@
+1) Write a R program to take input from the user (name and age) and display
+the values. Also print the version of R installation.
+2) Write a R program to create a sequence of numbers from 20 to 50 and find
+the mean of numbers from 20 to 60 and sum of numbers from 51 to 91.
+3) Write a R program to create a simple bar plot of five subjects marks.
+4) Write a R program to get the unique elements of a given string and unique
+numbers of vector.
+5) Write a R program to multiply two vectors of integers type and length 3.
+6) Write a R program to list containing a vector, a matrix and a list and give
+names to the elements in the list.
+7) Write a R program to create a list containing a vector, a matrix and a list
+and give names to the elements in the list. Access the first and second
+element of the list.
+8) Write a R program to create a list containing a vector, a matrix and a list
+and remove the second element.
+9) Write a R program to merge two given lists into one list.
+10) Write a R program to assign new names "a", "b" and "c" to the elements of
+a given list.
+11) Write a R program to create an empty data frame.
+12) Write a R program to create a data frame from four given vectors.
+13) Write a R program to create a data frame using two given vectors and
+display the duplicated elements and unique rows of the said data frame.
+14) Write a R program to save the information of a data frame in a file and
+display the information of the file.
+15) Write a R program to create an ordered factor from data consisting of the
+names of months.
+16) Write R program to find whether given number is positive or negative.
+17) Write R program to read number and print corresponding day name in a
+week
+18) Create a Matrix using R and Perform the operations addition, subtraction,
+multiplication.
+19) Using R import the data from Excel/.CSV file and find mean, median,
+mode, quartiles.
+20) Using R import the data from Excel/.CSV file and find standard deviation,
+variance and co-variance.
+21) Write a R program to count the number of NA values in a data frame
+column.
+22) Write a R program to call the (built-in) dataset air quality. Remove the
+variables 'Solar.R' and 'Wind' and display the data frame.
+23) Write a R program to compare two data frames to find the row(s) in first 
+data frame that are not present in second data frame
+24) Write a R program to create a factor corresponding to height of women
+data set, which contains height and weights for a sample of women.
+25) Write a R program to find nth highest value in a given vector.
+26) Write an R program to sort a Vector in ascending and descending order.
+27) Write an R program to extract first 10 English letter in lower case and last
+10 letters in upper case and extract letters between 22nd to 24th letters in
+upper case.
+28) Write an R Program to calculate Decimal into binary of a given number.
+29) Write an R program to convert a given matrix to a list and print list in
+ascending order.
+30) Write an R program to create a Data frames which contain details of
+5employees and display the details in ascending order.
+31) Consider the inbuilt iris dataset i) Create a variable “y” and attach to it the
+output attribute of the “iris”dataset .ii) Create a barplot to breakdown your
+output attribute. iii) Create a density plot matrix for each attribute by class
+value.
+32) Consider Weather dataset i) Selecting using the column number ii)
+Selecting using the column nameiii) Make a scatter plot to compare Wind
+speed and temperature.
+33) Write a script in R to create a list of students and perform thefollowingi)
+Give names to the students in the list. ii) Add a student at the end of the list.
+iii) Remove the first Student.iv) Update the second last student.

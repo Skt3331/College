@@ -1,3 +1,6 @@
+# 19) Using R import the data from Excel/.CSV file and find mean, median,
+# mode, quartiles.
+
 data <- read.csv("mydata.csv")
 print(data)
 

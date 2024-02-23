@@ -1,0 +1,21 @@
+1. Write a multithreading program in java to display all the vowels from a given String.
+2. Write a multithreading program using Runnable interface to blink Text on the frame.
+3. Write a program that create 2 threads – each displaying a message (Pass the message
+as a parameter to the constructor). The threads should display the messages
+continuously till the user presses ctrl-c. Also display the thread information as it is
+running.
+4. Write a java program to calculate the sum and average of an array of 1000 integers
+(generated randomly) using 10 threads. Each thread calculates the sum of 100
+integers. Use these values to calculate average. [Use join method ]
+5. Define a thread called “PrintText_Thread” for printing text on command prompt for n
+number of times. Create three threads and run them. Pass the text and n as
+parameters to the thread constructor. Example:
+i. First thread prints “I am in FY” 10 times
+ii. Second thread prints “I am in SY” 20 times
+iii. Third thread prints “I am in TY” 30 times
+6. Write a program to simulate traffic signal using threads
+7. Write a program in which thread sleep for 6 sec in the loop in reverse order from 100 to
+1 and change the name of thread.
+8. Write a program to solve producer consumer problem in which a producer produces a
+value and consumer consume the value before producer generate the next value.
+(Hint: use thread synchronization)

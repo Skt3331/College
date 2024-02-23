@@ -1,0 +1,36 @@
+1. Write a Program to make use of following JSP implicit objects:
+i. out: To display current Date and Time.
+ii. request: To get header information.
+iii. response: To Add Cookie
+iv. config: get the parameters value defined in
+v. application: get the parameter value defined in
+vi. session: Display Current Session ID
+vii. pageContext: To set and get the attributes.
+viii. page: get the name of Generated Servlet
+2. Create a JSP page which will accept the file extension and display all files in the current
+directory having that extension. Each filename should appear as a hyperlink on screen.
+3. Create a JSP page to accept a number from a user and display it in words:
+Example: 123 – One Two Three.
+4. Write a JSP program to perform Arithmetic operations such as Addition, Subtraction,
+Multiplication and Division. Design a HTML to accept two numbers in text box and radio
+buttons to display operations. On submit display result as per the selected operation on
+next page using JSP.
+5. Create a JSP page, which accepts user name in a text box and greets the user
+according to the time on server side.
+Example: If user name is Admin
+Output:
+If it is morning then display message in red color as,
+Good morning, Admin
+Today’s date: dd/mm/yyyy format
+Current time: hh:mm:ss format
+If it is afternoon then display message in green color as,
+Good afternoon, Admin
+Today’s date: dd/mm/yyyy format
+Current time: hh:mm:ss format
+If it is evening then display message in blue color as,
+Good evening, Admin
+Today’s date: dd/mm/yyyy format
+Current time: hh:mm:ss format
+(Hint: To display date and time use GregorianCalendar and Calendar class)
+6. Write a JSP program to display number of times user has visited the page. (Use
+cookies)

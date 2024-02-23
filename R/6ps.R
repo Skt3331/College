@@ -1,3 +1,7 @@
+# 6) Write a R program to list containing a vector, a matrix and a list and give
+# names to the elements in the list.
+
+
 vector_data <- c(1,2,3,4,5)
 matr <- matrix(1:9 ,nrow = 3)
 inner_list <- list(a=10,b=20)

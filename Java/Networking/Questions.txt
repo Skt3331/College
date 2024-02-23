@@ -1,0 +1,12 @@
+1. Write a client-server program which displays the server machine’s date and time on the
+client machine.
+2. Write a program to find primary IP address of the host name which you passed as a
+parameter
+3. Write a program which sends the name of a text file from the client to server and
+displays the contents of the file on the client machine. If the file is not found, display an
+error message.
+4. Write a program to accept a list of file names on the client machine and check how
+many exist on the server. Display appropriate messages on the client side.
+5. Write a server program which echoes messages sent by the client. The process
+continues till the client types “END”.
+6. Write a program for a simple GUI based chat application between client and server.The 

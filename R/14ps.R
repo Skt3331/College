@@ -1,3 +1,7 @@
+# 14) Write a R program to save the information of a data frame in a file and
+# display the information of the file.
+
+
 name <- c("saurav","sarvadnya","vaidhav")
 age <-c(45,23,54)
 city <-c("pune","nashik","nagpur")

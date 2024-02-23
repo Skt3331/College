@@ -1,0 +1,25 @@
+1. Write a JDBC program to display all the details of the Person table in proper format
+on the screen. Create a Person table with fields as PID, name, gender, birth_year in
+PostgreSQL. Insert values in Person table.
+2. Write a program to display information about the ResultSet like number of columns
+available in the ResultSet and SQL type of the column. Use Person table. (Use
+ResultSetMetaData).
+3. Write a JDBC program to display all the countries located in West Region. Create a
+table Country in PostgreSQL with fields (Name, continent, Capital,Region). Insert
+values in the table.
+4. Write a JDBC program to insert the records into the table Employee(ID,name,salary)
+using PreparedStatement interface. Accept details of Employees from user.
+5. Write a JDBC program to perform search operation on Person table.
+1. Search all the person born in the year 1986.
+2. Search all the females born between 2000- 2005.
+6. Write a JDBC program to update number_of_students of “BCA Science” to
+1000.Create a table Course (Code,name, department,number_of_students). Insert
+values in the table.
+7. 3. Write a menu driven program to perform the following operations on
+District(Name, area,population) table.
+1. Insert
+2. Modify
+3. Delete
+4. Search
+5. View All
+6. Exit
