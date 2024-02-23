@@ -7,7 +7,7 @@ public class a1 {
        
 
         String hostname = args[0];
-        InetAddress[] addresses = InetAddress.getAllByName("https://www.blackbox.ai");
+        InetAddress[] addresses = InetAddress.getAllByName("https://www.google.com");
 
         for (InetAddress address : addresses) {
             if (!address.isLoopbackAddress() && !address.isLinkLocalAddress()) {
