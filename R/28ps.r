@@ -1,3 +1,4 @@
+./28ps.r
 # Write an R Program to calculate Decimal into binary of a given number.
 
 dtob <- function(decimal) {

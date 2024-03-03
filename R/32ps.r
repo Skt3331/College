@@ -1,3 +1,4 @@
+./32ps.r
 # 32) Consider Weather dataset i) Selecting using the column number ii)
 # Selecting using the column nameiii) Make a scatter plot to compare Wind
 # speed and temperature.

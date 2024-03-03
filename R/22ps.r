@@ -1,3 +1,4 @@
+./22ps.r
 # 22) Write a R program to call the (built-in) dataset air quality. Remove the variables 'Solar.R' and 'Wind' and display the data frame.
 
 library(readr)

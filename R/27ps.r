@@ -1,3 +1,4 @@
+./27ps.r
 # Write an R program to extract first 10 English letter in lower case and last
 # 10 letters in upper case and extract letters between 22nd to 24th letters in
 # upper case.

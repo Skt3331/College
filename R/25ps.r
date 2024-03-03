@@ -1,3 +1,4 @@
+./25ps.r
 # 25) Write a R program to find nth highest value in a given vector.
 
 sample_vector <- c(12, 24, 18, 30, 15, 27, 21)
