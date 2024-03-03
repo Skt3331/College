@@ -9,10 +9,7 @@ public class a2 {
         BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
         PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
 
-        if (args.length != 1) {
-            System.out.println("Usage: java FileClient <filename>");
-            System.exit(1);
-        }
+    
 
         out.println(args[0]);
 

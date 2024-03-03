@@ -11,10 +11,7 @@ public class a1 {
         String fileName = in.readLine();
 
         File file = new File(fileName);
-        if (!file.exists()) {
-            PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-            out.println("Error: File not found");
-        } else {
+       
             FileInputStream fileInputStream = new FileInputStream(file);
             BufferedReader fileReader = new BufferedReader(new InputStreamReader(fileInputStream));
 
@@ -30,4 +27,3 @@ public class a1 {
         socket.close();
         serverSocket.close();
     }
-}
