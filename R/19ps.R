@@ -6,7 +6,7 @@ print(data)
 
 meanval <- mean(data$age)
 mediamv <- median(data$age)
-modev <- names(which.max(table(data$name)))
+modev <- names(which.max(table(data$age)))
 quarti <-quantile(data$age)
 
 print("Mean:") 
